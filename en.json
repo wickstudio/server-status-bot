@@ -1,0 +1,13 @@
+{
+    "serverStatus": "Server Status",
+    "members": "Members",
+    "bots": "Bots",
+    "textChannels": "Text Channels",
+    "voiceChannels": "Voice Channels",
+    "roleMembers": "Customers",
+    "boosts": "Boosts",
+    "serverId": "Server ID",
+    "createdAt": "Created At",
+    "serverOwner": "Server Owner",
+    "lastUpdated": "Last Updated"
+}

@@ -1,0 +1,13 @@
+{
+    "serverStatus": "حالة السيرفر",
+    "members": "الأعضاء",
+    "bots": "البوتات",
+    "textChannels": "رومات الكتابة",
+    "voiceChannels": "رومات الصوتية",
+    "roleMembers": "الزبائن",
+    "boosts": "بوستات",
+    "serverId": "ايدي السيرفر",
+    "createdAt": "تم الإنشاء في",
+    "serverOwner": "اونر السيرفر",
+    "lastUpdated": "آخر تحديث"
+}
